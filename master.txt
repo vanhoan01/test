@@ -1,10 +1,7 @@
 hello
 abc
-<<<<<<< HEAD
 
 bbbbbb
 cccccc
-=======
 aaaaaaaa
 cccccccc
->>>>>>> aa
